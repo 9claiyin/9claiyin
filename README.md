@@ -11,7 +11,7 @@
 
 <!-- 关于我 -->
 <h2 height="200px" align="center">About Me</h2>
-<hr>
+## nihao
 ```
 我是克莱因，@9claiyin
 ```
@@ -32,11 +32,9 @@
 
 
 <h2 height="200px" align="center">我的项目</h2>
-<hr>
-<br />
+
 
 
 
 <h2 height="200px" align="center">我的博客 </h2>
-<hr>
-<br />
+
