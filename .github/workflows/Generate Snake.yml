@@ -23,7 +23,7 @@ jobs:
       - name: Append Juejin Posts List🔧
         uses: KunLunXu-CC/juejin-posts-action@main
         with: 
-          user_id: "4459274891717223"
+          user_id: "2714012286197207"
       
       - run: |
           git pull
@@ -31,7 +31,7 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           branch: main
-          default_author: github_actions
+          default_author: 小小宇宙
           message: 'juejin-posts'
   
   # 成统计图, see: https://github.com/lowlighter/metrics
