@@ -52,3 +52,11 @@
 <img align="right" margin-top:300px style="margin-top:300px" src="https://gd-hbimg.huaban.com/d90cbd715df8405a14ff6cd2aabb6f14473d45ef39c8-kmTu0c_fw658webp" alt="" width="15%">
 
 <!-- <img align="left" margin-top:300px style="margin-top:300px" src="https://gd-hbimg.huaban.com/a7ad73136ecf621986eb910224a7e9669dd38df43a6ce-0KOxgU_fw658webp" alt="" width="30%">  -->
+
+<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
+
