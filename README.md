@@ -42,11 +42,9 @@
 
 - xxx
 - xxx
-- xxx
-- xxx
-- xxx
-- xxx
-
+<!-- posts start -->
+这里会插入生成的文章列表
+<!-- posts end -->
 
 
 <img align="right" margin-top:300px style="margin-top:300px" src="https://gd-hbimg.huaban.com/d90cbd715df8405a14ff6cd2aabb6f14473d45ef39c8-kmTu0c_fw658webp" alt="" width="15%">
