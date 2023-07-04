@@ -60,6 +60,20 @@
 </ul>
 <!-- posts end -->
 
+<!-- 统计卡片, see: https://github.com/anuraghazra/github-readme-stats -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <div><b><em><spam>Statistics</spam></em></b></div>
+      <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
+    </td>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=9claiyin&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
+    </td>
+  </tr>
+</table>
+
+
 
 <img align="right" margin-top:300px style="margin-top:300px" src="https://gd-hbimg.huaban.com/d90cbd715df8405a14ff6cd2aabb6f14473d45ef39c8-kmTu0c_fw658webp" alt="" width="15%">
 
