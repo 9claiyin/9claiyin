@@ -25,7 +25,7 @@
       <div></div>
 - 
   </div>
-  <div><img src="https://gd-hbimg.huaban.com/04756ef7d5b642728a46c87f716b2c2166f7349e34f0b-DpxkCx_fw658webp" alt=""></div>
+  <div><img src="https://gd-hbimg.huaban.com/04756ef7d5b642728a46c87f716b2c2166f7349e34f0b-DpxkCx_fw658webp" alt="" width="10%"></div>
 </div>
 
 
