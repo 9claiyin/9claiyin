@@ -47,7 +47,7 @@
 <ul>
 <li>[9月前] <a href="https://juejin.cn/post/7155508286744166413">🍟传说中的单链表 [UP]</a></li>
 <li>[10月前] <a href="https://juejin.cn/post/7142457766882312206">青训营快乐出发【100天打卡计划】</a></li>
-<li>[10月前] <a href="https://juejin.cn/post/7134348087278960670">事件及dom节点|青训营笔记</a></li>
+<li>[11月前] <a href="https://juejin.cn/post/7134348087278960670">事件及dom节点|青训营笔记</a></li>
 <li>[11月前] <a href="https://juejin.cn/post/7129121672400994341">DOM(一)</a></li>
 <li>[11月前] <a href="https://juejin.cn/post/7127583751143424013">js对象（二）</a></li>
 <li>[11月前] <a href="https://juejin.cn/post/7127291336651112461">js对象(一)</a></li>
