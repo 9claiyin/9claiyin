@@ -54,7 +54,7 @@
 <li>[11月前] <a href="https://juejin.cn/post/7126563373419855903">react路由（一）</a></li>
 <li>[11月前] <a href="https://juejin.cn/post/7125816697235177509">javascript函数及其他 | 青训营笔记</a></li>
 <li>[11月前] <a href="https://juejin.cn/post/7125815428084924429">1.数据结构与算法的认识</a></li>
-<li>[11月前] <a href="https://juejin.cn/post/7125351489941274661">setState()的说明与组件优化</a></li>
+<li>[12月前] <a href="https://juejin.cn/post/7125351489941274661">setState()的说明与组件优化</a></li>
 </ul>
 
 </ul>
