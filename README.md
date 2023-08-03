@@ -49,7 +49,7 @@
 <li>[10月前] <a href="https://juejin.cn/post/7142457766882312206">青训营快乐出发【100天打卡计划】</a></li>
 <li>[11月前] <a href="https://juejin.cn/post/7134348087278960670">事件及dom节点|青训营笔记</a></li>
 <li>[12月前] <a href="https://juejin.cn/post/7129121672400994341">DOM(一)</a></li>
-<li>[12月前] <a href="https://juejin.cn/post/7127583751143424013">js对象（二）</a></li>
+<li>[1年前] <a href="https://juejin.cn/post/7127583751143424013">js对象（二）</a></li>
 <li>[1年前] <a href="https://juejin.cn/post/7127291336651112461">js对象(一)</a></li>
 <li>[1年前] <a href="https://juejin.cn/post/7126563373419855903">react路由（一）</a></li>
 <li>[1年前] <a href="https://juejin.cn/post/7125816697235177509">javascript函数及其他 | 青训营笔记</a></li>
