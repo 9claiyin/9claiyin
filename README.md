@@ -44,7 +44,6 @@
 <!-- <img align="center" display="position"  src="https://gd-hbimg.huaban.com/cea970b7a5e2320aa6085c6434d735ecbd7c6b5a1b518-PXmTPT_fw658webp" alt="" width="20%" > -->
 <!-- posts start -->
 <ul>
-<ul>
 <li>[undefined] <a href="https://juejin.cn/post/7155508286744166413">🍟传说中的单链表 [UP]</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7142457766882312206">青训营快乐出发【100天打卡计划】</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7134348087278960670">事件及dom节点|青训营笔记</a></li>
@@ -55,8 +54,6 @@
 <li>[undefined] <a href="https://juejin.cn/post/7125816697235177509">javascript函数及其他 | 青训营笔记</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7125815428084924429">1.数据结构与算法的认识</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7125351489941274661">setState()的说明与组件优化</a></li>
-</ul>
-
 </ul>
 <!-- posts end -->
 
