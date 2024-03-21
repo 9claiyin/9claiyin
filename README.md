@@ -1,14 +1,23 @@
 
 
-<img align="right" src="https://gd-hbimg.huaban.com/04756ef7d5b642728a46c87f716b2c2166f7349e34f0b-DpxkCx_fw658webp" alt="" width="40%">
+
 
 ## 🕊️About me
 ```
 自由
 ```
-- 我是克莱因 | @9claiyin
+<img align="right" src="https://gd-hbimg.huaban.com/04756ef7d5b642728a46c87f716b2c2166f7349e34f0b-DpxkCx_fw658webp" alt="" width="30%">
+<diV>
+
+  
 - Major in CyberSecurity
+- 我是克莱因 | @9claiyin
+
+- 2347880
+- 
 - 利索群居者
+- 个人博客：
+ </div>
 
 <img align="left" margin-top:300px style="margin-top:500px" src="https://gd-hbimg.huaban.com/7a21ba9536c8822293f4b31ff1f5a9d53c64f92413d1ca-ryGEER_fw658webp" alt="" width="30%" height="50%">
 
