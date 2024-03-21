@@ -7,16 +7,10 @@
 自由
 ```
 - 我是克莱因 | @9claiyin
-- 网络空间安全专业 | Major in CyberSecurity
-- daiding
-- 待定
-- 待定
-- 待定
-- d
-- d
-- d
+- Major in CyberSecurity
+- 利索群居者
 
-<img align="left" margin-top:300px style="margin-top:300px" src="https://gd-hbimg.huaban.com/7a21ba9536c8822293f4b31ff1f5a9d53c64f92413d1ca-ryGEER_fw658webp" alt="" width="30%" height="50%">
+<img align="left" margin-top:300px style="margin-top:500px" src="https://gd-hbimg.huaban.com/7a21ba9536c8822293f4b31ff1f5a9d53c64f92413d1ca-ryGEER_fw658webp" alt="" width="30%" height="50%">
 
 ## 🍔My Projects
 
