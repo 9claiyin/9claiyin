@@ -10,27 +10,15 @@
 <diV>
 
 - Major in CyberSecurity
-- 利索群居者
+  
+- 利索群居者，神明&野兽
+
+
+
  </div>
 
-<img align="left" margin-top:300px style="margin-top:500px" src="https://gd-hbimg.huaban.com/7a21ba9536c8822293f4b31ff1f5a9d53c64f92413d1ca-ryGEER_fw658webp" alt="" width="30%" height="50%">
 
-## 🍟Status
 
-<!-- 统计卡片, see: https://github.com/anuraghazra/github-readme-stats -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <div><b><em><spam></spam></em></b></div>
-<!--       <img align="right" src="./assets/metrics.plugin.isocalendar.svg" /> -->
-<!--       <img align="right" src="https://gd-hbimg.huaban.com/b10b9efe9bc54f8b9ff900c77b3da4e2ceeb1f6287a12-74IHcY_fw658webp" /> -->
-      <img align="left" height="250px" src="https://gd-hbimg.huaban.com/58b3ec41c9ff762589d2bea6116534d031e304a26d45b4-MlHPVD_fw658webp" />
-    </td>
-    <td align="left">
-<br/>
-    </td>
-  </tr>
-</table>
  
 
 
